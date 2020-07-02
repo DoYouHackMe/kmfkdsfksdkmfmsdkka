@@ -1,0 +1,15 @@
+{
+  "name": "altmanager",
+  "version": "1.3.0",
+  "description": "https://discordapp.com/oauth2/authorize?client_id=123456789012345678&scope=bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "mineflayer": "^2.20.0"
+  }
+}
