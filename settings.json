@@ -1,8 +1,0 @@
-{
-    "prefix":"!",
-    "token": "",
-    "version": "1.8.9",
-    "interval": "3000",
-    "timeBetweenMessages": "100",
-    "whitelist": [""]
-}
